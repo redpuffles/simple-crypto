@@ -1,2 +1,2 @@
 # simple-crypto
-simple python script to solve for the activity login leaks.
+simple python script to solve for the activity Simple Crypto.
